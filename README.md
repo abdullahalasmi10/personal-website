@@ -1,9 +1,1 @@
-# special-octo-computing-machine![kitap](https://user-images.githubusercontent.com/111591219/185812885-aec6ed26-ee5e-42e0-b4e5-e839cd4f4166.jpg)
-![kitap](https://user-images.githubusercontent.com/111591219/185812890-4ed782eb-576f-4614-9370-a5e832a17df8.png)
-![rumkale](https://user-images.githubusercontent.com/111591219/185812892-0a8f5c66-6e7c-404f-8f35-aefa7516fd07.jpg)
-![saatkulesi](https://user-images.githubusercontent.com/111591219/185812894-89651a6d-114c-4c56-b393-77877c8e0b9d.jpg)
-![teknoloji](https://user-images.githubusercontent.com/111591219/185812895-34dfdbf9-78f0-421f-9e0d-eee369765a0e.png)
-![bakircilar](https://user-images.githubusercontent.com/111591219/185812896-5dc7ec70-bf37-41f6-9f2c-430dc8c50a1f.jpg)
-![bakircilarcarsisi](https://user-images.githubusercontent.com/111591219/185812897-464d1d3a-f237-4bad-bfb8-b00af1abe3ff.jpg)
-![cicekli](https://user-images.githubusercontent.com/111591219/185812899-9a9f7b08-180d-4c41-b21c-a5d24364202f.jpg)
-![kebaphan](https://user-images.githubusercontent.com/111591219/185812901-22f920ff-efaa-4976-a726-a4a56df082e8.jpg)
+# special-octo-computing-machine!
